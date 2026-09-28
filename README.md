@@ -2,10 +2,6 @@
 
 A dependency-free, modular browser FPS vertical slice. It uses a performant Canvas raycaster, Web Audio event synthesis, pooled effects, state-machine AI, data-driven weapons/enemies, persistent settings/checkpoints, keyboard/mouse, and Gamepad API controls.
 
-## Play Online
-
-[Launch Shooting Game](https://sujaykumar960.github.io/Shooting_Game/)
-
 ## Run
 
 ```bash
