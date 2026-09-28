@@ -80,3 +80,5 @@ Add a mode/phase definition to `MissionManager`, then use EventBus events (`obje
 ## Known limitations
 
 This is a polished browser vertical slice, not a multi-year asset-heavy AAA production. Rendering is a stylized raycast 3D pipeline rather than skeletal-mesh 3D; animation, destruction, recorded audio, authored cinematics, navmesh cover selection, online services, and full accessibility remapping would require an engine/content pipeline and production assets. Jump is mapped but intentionally has no vertical traversal in this arena map. Controller support uses the standard Gamepad API and may need per-device mapping adjustments.
+
+Link -> https://sujaykumar960.github.io/Shooting_Game/
